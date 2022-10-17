@@ -10,3 +10,7 @@
 - Unzip it and move it in the repo folder.
 - Rename it to just the version.
 - Open a PR 🚀.
+
+## Why does this exist?
+
+Because iosevka is still not in Google Fonts. https://github.com/google/fonts/issues/4728
