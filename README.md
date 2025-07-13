@@ -1,3 +1,5 @@
+# Deprecated. Please use https://github.com/iosevka-webfonts/iosevka.
+
 ## How to use
 
 - Add `<link href="https://pvinis.github.io/iosevka-webfont/3.4.1/iosevka.css" rel="stylesheet" />` (or use any other version available in this repo).
